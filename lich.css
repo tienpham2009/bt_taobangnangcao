@@ -1,0 +1,23 @@
+#table1 {
+    width: 700px;
+    text-align: center;
+}
+#table1 td{
+    width: 100px;
+}
+#table2{
+    border: 2px; border-collapse: collapse;
+    width: 700px;
+    text-align: center;
+}
+#table2 td{
+    border: 2px solid blueviolet; border-collapse: collapse;
+    width: 100px;height: 50px;
+    font-family: Calibri;
+}
+.a{
+    color: blue;
+}
+.b{
+    color: red;
+}
